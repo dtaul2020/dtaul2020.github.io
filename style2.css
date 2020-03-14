@@ -1,0 +1,50 @@
+*      {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-size: 16px;
+	font-color: black; 
+}
+#wrapper {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header  {
+	background-color: yellow;
+	height: 60px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+#content {
+	background-color: white;
+	padding: 10px;
+	border: 1px solid black;
+}
+#logo  {
+	text-shadow: 1px 1px 1px black;
+	color: #A22424;
+	font-size: 50px;
+}
+.topnav   {
+	background-color: black;
+	overflow: hidden;
+}
+.topnav a  {
+	float: left;
+	color: #8187AD;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 25px;
+}
+.topnav a:hover  {
+	background-color: #A6AEDE;
+	color: black;
+}
+.topnav a:active  {
+	background-color: #C1A4EB;
+	color: white;
+}
+	
