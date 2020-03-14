@@ -1,0 +1,117 @@
+body, html {
+	background-image: url ("Door to Knowledge.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+h1, h2, h3, h4, h5, h6 {
+   	font-weight: normal;
+   	color: #080A12;
+   	margin: 0px;
+  	 text-align: left; 
+}
+h1 {
+   	font-family: Georgia, Times, serif;
+  	 font-weight: bold;
+   	font-size: 250%;
+   	text-align: left;
+}
+h2 {
+   	font-family: Georgia, Times, serif;
+   	font-weight: bold;
+  	 font-size: 250%;
+  	text-align: left; 
+}
+h3 {
+  	font-family: Georgia, Times, serif;
+  	font-weight: bold;
+  	font-style: italic;
+ 	 font-size: 100%;
+ 	 text-align: left; 
+}
+h4 {
+  	font-family: Georgia, Times, serif;
+  	font-weight: bold;
+  	font-size: 250%;
+  	text-align: left; 
+}
+h5 {
+  	font-family: Georgia, Times, serif;
+  	font-weight: bold;
+ 	 font-size: 250%;
+ 	text-align: left;
+}
+h6 {
+  	font-family: Georgia, Times, serif;
+  	font-weight: bold;
+  	font-size: 250%;
+  	text-align: left; 
+}
+p {
+  	font-family: Georgia, Times, serif;
+  	font-weight: normal;
+  	text-align: left; 
+	color:#080A12;
+}
+p.intro {
+   	font-family: Georgia, Times, serif;
+   	font-weight: normal;
+   	font-size: 100%;
+   	text-align: left; 
+	color:#080A12;
+}
+p.about me {
+  	 font-family: Georgia, Times, serif;
+   	font-weight: normal;
+  	 font-size: 100%;
+   	text-align: left; 
+	color: #080A12;
+}
+a {
+  	color: black;
+  	cursor: pointer; 
+}
+a: link {
+   	text-decoration: none; 
+}
+a: visited {
+   	color: black; 
+}
+.topnav   {
+	background-color: black;
+	overflow: hidden;
+}
+.topnav a  {
+	float: left;
+	color: #8187AD;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 25px;
+	cursor: pointer;
+}
+.topnav a:hover  {
+	background-color: #A6AEDE;
+	color: black;
+}
+.topnav a:active  {
+	background-color: #C1A4EB;
+	color: white;
+}
+img {
+	border: 1 px solid black;
+	border-radius: 8px;
+	padding: 5px;
+	width: 20%;	
+	margin-left: auto;
+	margin-right: auto;
+}
+	
+	
+
+   
+  
+
+
+   
+  
