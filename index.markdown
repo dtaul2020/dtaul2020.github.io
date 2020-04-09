@@ -1,11 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
-
    Welcome to Danielle's World of Knowledge  
   
 [Home](file:///C:/Users/dtaul/Documents/LIS%20636/dtaul2020/index.html)
