@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src= "/assets/Danielle Taulman.jpg" width= "500px" height= "500px">
+<img src= "/assets/Danielle Taulman.jpg" width= "250px" height= "250px">
 
  Who is Danielle Taulman?
 
