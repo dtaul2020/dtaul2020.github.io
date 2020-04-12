@@ -7,7 +7,7 @@ Disney
 [Disney Blog](Disney.html)
 [Read My Bible Blog](Read My Bible.html)
 [Research](Research.html)
-      
+
 
 
 
@@ -48,39 +48,3 @@ My Love for Disney
 
 #  Disney Vacation
 There are a lot of vacation spots that Disney offers. There are cruise lines in Alaska and also for Florida and there are resorts in Hawaii and there many different parks in France, Japan, and California. You can pick whatever place you want to go and Disney magic is provided! If there was one vacation that I would love to go to, it would be a Disney cruise! It would be fun and exotic. I would listen to all of the Disney music that the ship provided and it would be a dream come true! Book your vacation today and see the magic come to life.
-
-
-
-
-
-
-# Headline 1
-## Headline 2
-### Headline 3
-#### Headline 4
-##### Headline 5
-###### Headline6
-**Bold Text **_Italic Text_
-**_BOLD ITALIC_**
-
-
-* Stuff
-* More Stuff
-* Stuffy Stuff
-
-
-1. Stuff One
-1. Stuff Two
-1. Stuff Three
-
->Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
-
-
-![Example_Image](https://farm8.staticflickr.com/7564/15935673038_030f6b5387.jpg")
-[Google](http://www.google.com)
-`
-		<div>
-			<h1>Test Code Block</h1>
-			<h2>Testing the ignore Code</h2>
-		</div>
-	`
