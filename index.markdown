@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /Home/
+---
+
 Welcome to Danielle's World of Knowledge  
 
 [Home](file:///C:/Users/dtaul/Documents/LIS%20636/dtaul2020/index.html)
