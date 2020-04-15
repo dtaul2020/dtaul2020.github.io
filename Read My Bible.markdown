@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Read My Bible
+permalink: /bible/
+---
 
 Read My Bible
 
