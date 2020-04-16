@@ -6,11 +6,11 @@ permalink: /Home/
 
 Welcome to Danielle's World of Knowledge  
 
-[Home](file:///C:/Users/dtaul/Documents/LIS%20636/dtaul2020/index.html)
-[Library Blog](library.html)
-[Disney Blog](Disney.html)
-[Read My Bible Blog](read my bible.html)
-[Research](Research.html)
+[Home](Home)
+[Library Blog](library)
+[Disney Blog](Disney)
+[Read My Bible Blog](read my bible)
+[Research](Research)
 
 Welcome to Danielle's World of Knowledge
 
