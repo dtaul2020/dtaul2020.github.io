@@ -6,11 +6,11 @@ permalink: /Home/
 
 Welcome to Danielle's World of Knowledge  
 
-[Home](Home)
-[Library Blog](library)
-[Disney Blog](Disney)
-[Read My Bible Blog](read my bible)
-[Research](Research)
+[Home](index.markdown)
+[Library Blog](library.markdown)
+[Disney Blog](Disney.markdown)
+[Read My Bible Blog](read my bible.markdown)
+[Research](Research.markdown)
 
 Welcome to Danielle's World of Knowledge
 
