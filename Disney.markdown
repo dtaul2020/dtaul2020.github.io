@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Disney
+permalink: /disney/
+---
 
 Disney
 
