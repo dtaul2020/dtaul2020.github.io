@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /Home/
+permalink: /home/
 ---
 
 Welcome to Danielle's World of Knowledge  
