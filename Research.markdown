@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reasearch
-permalink: /reasearch/
+title: Research
+permalink: /research/
 ---
 
 
@@ -26,4 +26,4 @@ Research
 *  <a href="Group Behavior Analysis.pdf">Group Project Analysis</a>
 *  <a href="Supercharged Storytime OBPE Outline.pdf">Elementary School Program Plan</a>
 *  <a href="Middle School OBPE Plan.pdf">Middle School Program Plan</a>
-*  <a href="High School OBPE Plan.pdf">High School Program Plan</a> 
+*  <a href="High School OBPE Plan.pdf">High School Program Plan</a>
