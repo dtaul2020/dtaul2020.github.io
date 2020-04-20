@@ -1,5 +1,5 @@
 ---
-layout: mint
+layout: default
 title: Home
 permalink: /home/
 ---
