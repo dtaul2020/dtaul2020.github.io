@@ -28,7 +28,7 @@ facebook_username: Danielle Taulman
 github_username:  dtaul2020
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
