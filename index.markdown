@@ -1,7 +1,7 @@
 ---
 layout: default.html
 title: Home
-permalink: /home/
+
 ---
 
 Welcome to Danielle's World of Knowledge  
