@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: home
 classes:
- - Home
+ - landing
  - mint-theme
 title: Home
 
