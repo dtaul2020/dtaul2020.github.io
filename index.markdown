@@ -1,5 +1,8 @@
 ---
-layout: default.html
+layout: default
+classes:
+ - Home
+ - mint-theme
 title: Home
 
 ---
