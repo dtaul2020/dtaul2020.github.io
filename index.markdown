@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: splash
 classes:
  - landing
  - mint-theme
 title: Home
-
+permalink: /home/
 ---
 
 Welcome to Danielle's World of Knowledge  
