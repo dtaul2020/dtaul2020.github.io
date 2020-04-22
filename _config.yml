@@ -26,15 +26,24 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: Danielle Taulman
 github_username:  dtaul2020
-
+minimal_mistakes_skin: default
+search: true
 # Build settings
+markdown: kramdown
 # theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+ - jekyll-sitemap
+ - jekyll-paginate
+ - jekyll-gist
 
-include: ["_pages"]
+permalink: /:categories/:title/
+
+
+include:
+  - _pages
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
