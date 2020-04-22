@@ -15,7 +15,7 @@ permalink: /disney/
 
 #  M.I.C.K.E.Y. M.O.U.S.E.
 
-<img src="/Assets/Mickey Mouse.jpg" width="300px" length="300px">
+<img src="/Assets/Mickey Mouse.jpg" width="460px" length="259px">
 
  Who made Disney possible? Mickey Mouse! Walt Disney created this famous icon of a mouse to make the wonderful world of Disney come to life. He has a laugh like no other, a smile that make everyone happy, and a voice that children love to hear. I will always "be a part of your world" Mickey! Disney has been spreading like wildfire with amusement parks, resorts, and cruise lines. It is no wonder Walt Disney had such a fortune. Mickey Mouse is the beloved icon that made something so wonderful and fun along with music here and there! Thank you Mickey for making me smile and sing my heart out.
 
