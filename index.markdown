@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 
-<img src= "/Assets/Door to Knowledge.jpg" width="300px" length="300px" > 
+<img src="/Assets/Door to Knowledge.jpg" width="225px" length="225px"> 
 
 [Home](index.markdown)
 [Library Blog](library.markdown)
