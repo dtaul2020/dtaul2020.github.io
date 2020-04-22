@@ -15,7 +15,7 @@ Danielle's Library
 
 # What is the Library?
 
-<img src="/Assets/Library.jpg" width="300px" length="300px">
+<img src="/Assets/Library.jpg" width="500px" length="500px">
 
 Hello my readers. This is my first blog post about libraries. Some people say that libraries are places where you check in and check out books; I believe that libraries are more than that: I believe libraries are places where history, information, and knowledge come to life.
 
@@ -29,7 +29,7 @@ Hello my readers. This is my first blog post about libraries. Some people say th
 
 # A Hint of Library History
 
-<img src="/Assets/Library History.jpg" width="300px" length="300px">
+<img src="/Assets/Library History.jpg" width="500px" length="500px">
 
  History is everywhere. In libraries, you can find history in any resource especially online.
 
@@ -53,7 +53,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 # Sing to the Reading Melody
 
-<img src="/Assets/Music Library.jpg" width="300px" length="300px">
+<img src="/Assets/Music Library.jpg" width="500px" length="500px">
 
  There are many types of libraries out there. There are public libraries, school libraries, academic libraries, hospital libraries, law libraries, etc. Wherever you go, there is bound to be a library full of exotic materials waiting for someone to grab and take a look. Did you know that there are also music libraries? I never knew that music could have a library but as it turned out, there is!
 
