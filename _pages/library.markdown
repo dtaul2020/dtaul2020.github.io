@@ -63,7 +63,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 # Library of Congress
 
-<img src="/Assets/Library of Congress.jpg" width="300px" length="300px">
+<img src="/Assets/Library of Congress.jpg" width="500px" length="500px">
 
 After graduation, I would love to work at the one place where history and librarianship come together as one: the Library of Congress in Washington D.C. D.C. is filled with American history. I would love to walk around the many monuments, the museums, the memorials, etc. but the one place where I want to step through is the Library of Congress.
 
