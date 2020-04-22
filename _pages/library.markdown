@@ -3,7 +3,6 @@ layout: page
 title: Library
 permalink: /library/
 ---
-Library
 
 [Home](index.html)
 [Library Blog](library.html)
