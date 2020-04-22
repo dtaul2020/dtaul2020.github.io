@@ -15,7 +15,7 @@ Danielle's Library
 
 # What is the Library?
 
-<img src="/Assets/Beauty and the Beast Library.jpg" width="300px" length="300px">
+<img src="/Assets/Library.jpg" width="300px" length="300px">
 
 Hello my readers. This is my first blog post about libraries. Some people say that libraries are places where you check in and check out books; I believe that libraries are more than that: I believe libraries are places where history, information, and knowledge come to life.
 
