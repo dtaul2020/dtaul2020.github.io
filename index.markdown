@@ -4,7 +4,7 @@ title: Home
 permalink: /home/
 ---
 
-Welcome to Danielle's World of Knowledge  
+<img src= "/Assets/Door to Knowledge.jpg" width="300px" length="300px" 
 
 [Home](index.markdown)
 [Library Blog](library.markdown)
