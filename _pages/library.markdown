@@ -67,7 +67,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 After graduation, I would love to work at the one place where history and librarianship come together as one: the Library of Congress in Washington D.C. D.C. is filled with American history. I would love to walk around the many monuments, the museums, the memorials, etc. but the one place where I want to step through is the Library of Congress.
 
-This library was constructed in 1800, burned down in the War of 1812, and then was rebuilt using Presdent Thomas Jefferson's library collection to be the first renewable collection to check in and check out. The architecture is still up to this very day and his collection is still there! That is remarkable! Looking inside the Library of Congress is like walking in history itself. In this library, you have everything.
+This library was constructed in 1800, burned down in the War of 1812, and then was rebuilt using President Thomas Jefferson's library collection to be the first renewable collection to check in and check out. The architecture is still up to this very day and his collection is still there! That is remarkable! Looking inside the Library of Congress is like walking in history itself. In this library, you have everything.
 
 For example,  in the Disney movie "National Treasure," you see Riley Poole and Ben Gates in the Library of Congress studying materials in the middle of the library. Riley shows Ben blueprints, security footage, etc. about one specific place. You can actually touch these materials! It is incredible! I would love to work there. It will be expensive to live in D.C. but it would be worth it.
 
