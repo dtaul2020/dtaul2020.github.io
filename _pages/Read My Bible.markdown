@@ -4,7 +4,7 @@ title: Read My Bible
 permalink: /bible/
 ---
 
-<img src= "/Assets/Read my Bible.jpg" width="500px" length="500px">
+<img src= "/Assets/Read my Bible.jpg" width="300px" length="300px">
 
 [Home](index.html)
 [Library Blog](library.html)
