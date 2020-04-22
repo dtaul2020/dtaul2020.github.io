@@ -10,7 +10,7 @@ permalink: /library/
 [Read My Bible Blog](Read My Bible.html)
 [Research](Research.html)
 
-Danielle's Library
+# Danielle's Library
 
 # What is the Library?
 
