@@ -12,6 +12,7 @@ permalink: /library/
 
 # Danielle's Library
 
+
 # What is the Library?
 
 <img src="/Assets/Library.jpg" width="500px" length="500px">
