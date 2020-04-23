@@ -26,7 +26,7 @@ baseurl: "/home/" # the subpath of your site, e.g. /blog
 url: "dtaul2020.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: Danielle Taulman
 github_username:  dtaul2020
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: default
 search: true
 locale: "en-US"
 # Build settings
