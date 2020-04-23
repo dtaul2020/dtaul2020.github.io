@@ -1,0 +1,13 @@
+Main:
+    - title: "Home"
+      url: /home/
+    - title: "About"
+      url: /about/
+    - title: "Library"
+      url: /library/
+    - title: "Disney"
+      url: /disney/
+    - title: "Bible"
+      url: /bible/
+    - title: "Research"
+      url: /research/
