@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Home
-permalink: /home/
+permalink: /
 ---
 
 <img src="/Assets/Door to Knowledge.jpg" width="225px" length="225px">
