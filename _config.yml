@@ -22,12 +22,13 @@ title: Welcome to Danielle's World of Knowledge
 email: dtaul2017@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   On this website, you will have the chance to meet the next future librarian of your time. She is a small-town graduate student reaching out to the library-science field. She is pursuing her dream to work at the Library of Congress. Here you will open the doors to meet this librarian who will open the doors to knowledge.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/home/" # the subpath of your site, e.g. /blog
+url: "dtaul2020.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: Danielle Taulman
 github_username:  dtaul2020
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
+locale: "en-US"
 # Build settings
 markdown: kramdown
 # theme: minima
