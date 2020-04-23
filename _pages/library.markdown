@@ -4,11 +4,11 @@ title: Library
 permalink: /library/
 ---
 
-[Home](index.html)
-[Library Blog](library.html)
-[Disney Blog](Disney.html)
-[Read My Bible Blog](Read My Bible.html)
-[Research](Research.html)
+[Home](/home/)
+[Library Blog](/library/)
+[Disney Blog](/disney/)
+[Read My Bible Blog](/bible/)
+[Research](/research/)
 
 # Danielle's Library
 

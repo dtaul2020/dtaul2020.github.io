@@ -6,11 +6,11 @@ permalink: /home/
 
 <img src="/Assets/Door to Knowledge.jpg" width="225px" length="225px">
 
-[Home](index.markdown)
-[Library Blog](library.markdown)
-[Disney Blog](Disney.markdown)
-[Read My Bible Blog](read my bible.markdown)
-[Research](Research.markdown)
+[Home](/home/)
+[Library Blog](/library/)
+[Disney Blog](/disney/)
+[Read My Bible Blog](/bible/)
+[Research](/research/)
 
 Welcome to Danielle's World of Knowledge
 

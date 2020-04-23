@@ -3,6 +3,12 @@ layout: single
 title: About
 permalink: /about/
 ---
+[Home](/home/)
+[Library Blog](/library/)
+[Disney Blog](/disney/)
+[Read My Bible Blog](/bible/)
+[Research](/research/)
+
 <img src="/Assets/Danielle Taulman.jpg" width= "300px" height= "300px">
 
  Who is Danielle Taulman?

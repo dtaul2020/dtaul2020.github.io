@@ -6,11 +6,11 @@ permalink: /research/
 
 <img src="/Assets/Sunset.jpg" width="500px" length="500px">
 
-[Home](index.html)
-[Library Blog](library.html)
-[Disney Blog](Disney.html)
-[Read My Bible Blog](Read My Bible.html)
-[Research](Research.html)
+[Home](/home/)
+[Library Blog](/library/)
+[Disney Blog](/disney/)
+[Read My Bible Blog](/bible/)
+[Research](/research/)
 
 
  Welcome to my research facility! This page will direct you to the many doors of knowledge of my work. You will find some interesting topics or you may find some that are intriguing to the eye. This is a display of my work and I hope you will enjoy it!

@@ -5,11 +5,11 @@ permalink: /disney/
 ---
 <img src="/Assets/Disney.jpg" width="500px" length="500px">
 
-[Home](index.html)
-[Library Blog](library.html)
-[Disney Blog](Disney.html)
-[Read My Bible Blog](Read My Bible.html)
-[Research](Research.html)
+[Home](/home/)
+[Library Blog](/library/)
+[Disney Blog](/disney/)
+[Read My Bible Blog](/bible/)
+[Research](/research/)
 
 # My Love for Disney
 
