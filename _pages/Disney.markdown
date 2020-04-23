@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: splash
 title: Disney
 permalink: /disney/
 ---
@@ -20,7 +20,7 @@ permalink: /disney/
  Walt Disney is the man worth recognizing in creating movies and shows that makes dreams come true! With an open heart and open mind, Walt Disney went on an adventure to inspire others to fulfill their dreams just as much as he did. He was a man with the talent to create a mouse to make everything happen and had a heart like a child. I love Disney all because of this one man. Thank you Walt Disney for letting me be a kid again!
 
 
-# M.I.C.K.E.Y. M.O.U.S.E 
+# M.I.C.K.E.Y. M.O.U.S.E
 
  <img src="/Assets/Mickey Mouse.jpg" width="460px" length="259px">
 

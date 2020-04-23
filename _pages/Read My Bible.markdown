@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Read My Bible
 permalink: /bible/
 ---

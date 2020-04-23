@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Welcome to Danielle's World of Knowledge
+title: Welcome to Danielle's World of Knowledge
 email: dtaul2017@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   On this website, you will have the chance to meet the next future librarian of your time. She is a small-town graduate student reaching out to the library-science field. She is pursuing her dream to work at the Library of Congress. Here you will open the doors to meet this librarian who will open the doors to knowledge.
