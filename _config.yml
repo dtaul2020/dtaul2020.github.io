@@ -91,3 +91,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
