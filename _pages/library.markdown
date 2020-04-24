@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: Library
 permalink: /library/
 ---
@@ -16,7 +16,7 @@ permalink: /library/
 
 # What is the Library?
 
-<img src="/Assets/Library.jpg" width="500px" length="500px">
+<img src="/assets/Library.jpg" width="500px" length="500px">
 
 Hello my readers. This is my first blog post about libraries. Some people say that libraries are places where you check in and check out books; I believe that libraries are more than that: I believe libraries are places where history, information, and knowledge come to life.
 
@@ -30,7 +30,7 @@ Hello my readers. This is my first blog post about libraries. Some people say th
 
 # A Hint of Library History
 
-<img src="/Assets/Library History.jpg" width="500px" length="500px">
+<img src="/assets/Library History.jpg" width="500px" length="500px">
 
  History is everywhere. In libraries, you can find history in any resource especially online.
 
@@ -42,7 +42,7 @@ You know what? I love Laura Bush. She is an inspiration to me. I bet without a d
 
 # "Extra, Extra! Read All About It"
 
-<img src="/Assets/Newsboy.jpg" width="300px" length="300px">
+<img src="/assets/Newsboy.jpg" width="300px" length="300px">
 
 Have you ever heard of the phrase, "Extra, Extra! Read All About It?" That is a phrase you might hear when a newspaper article becomes important to read about. Do you know where else you can find newspapers? In the library!
 
@@ -54,7 +54,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 # Sing to the Reading Melody
 
-<img src="/Assets/Music Library.jpg" width="500px" length="500px">
+<img src="/assets/Music Library.jpg" width="500px" length="500px">
 
  There are many types of libraries out there. There are public libraries, school libraries, academic libraries, hospital libraries, law libraries, etc. Wherever you go, there is bound to be a library full of exotic materials waiting for someone to grab and take a look. Did you know that there are also music libraries? I never knew that music could have a library but as it turned out, there is!
 
@@ -64,7 +64,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 # Library of Congress
 
-<img src="/Assets/Library of Congress.jpg" width="275px" length="183px">
+<img src="/assets/Library of Congress.jpg" width="275px" length="183px">
 
 After graduation, I would love to work at the one place where history and librarianship come together as one: the Library of Congress in Washington D.C. D.C. is filled with American history. I would love to walk around the many monuments, the museums, the memorials, etc. but the one place where I want to step through is the Library of Congress.
 

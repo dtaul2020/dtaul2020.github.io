@@ -10,7 +10,7 @@ permalink: /about/
 [Read My Bible Blog](/bible/)
 [Research](/research/)
 
-<img src="/Assets/Danielle Taulman.jpg" width= "300px" height= "300px">
+<img src="/assets/Danielle Taulman.jpg" width= "300px" height= "300px">
 
  Who is Danielle Taulman?
 

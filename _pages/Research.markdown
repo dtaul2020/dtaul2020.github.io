@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<img src="/Assets/Sunset.jpg" width="500px" length="500px">
+<img src="/assets/Sunset.jpg" width="500px" length="500px">
 
 [Home](/home/)
 [About](/about/)

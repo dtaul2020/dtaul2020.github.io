@@ -3,7 +3,7 @@ layout: splash
 title: Disney
 permalink: /disney/
 ---
-<img src="/Assets/Disney.jpg" width="500px" length="500px">
+<img src="/assets/Disney.jpg" width="500px" length="500px">
 
 [Home](/home/)
 [About](/about/)

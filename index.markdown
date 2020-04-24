@@ -7,7 +7,7 @@ title: Home
 permalink: /home/
 ---
 
-<img src="/Assets/Door to Knowledge.jpg" width="225px" length="225px">
+<img src="/assets/Door to Knowledge.jpg" width="225px" length="225px">
 
 [Home](/home/)
 [About](/about/)
