@@ -1,5 +1,8 @@
 ---
 layout: splash
+classes:
+   - landing
+   - mint-theme
 title: Home
 permalink: /home/
 ---
