@@ -7,6 +7,7 @@ permalink: /research/
 <img src="/Assets/Sunset.jpg" width="500px" length="500px">
 
 [Home](/home/)
+[About] (/about/)
 [Library Blog](/library/)
 [Disney Blog](/disney/)
 [Read My Bible Blog](/bible/)

@@ -5,6 +5,7 @@ permalink: /library/
 ---
 
 [Home](/home/)
+[About] (/about/)
 [Library Blog](/library/)
 [Disney Blog](/disney/)
 [Read My Bible Blog](/bible/)
