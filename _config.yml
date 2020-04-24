@@ -26,8 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "dtaul2020.github.io/home/" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: Danielle Taulman
 github_username:  dtaul2020
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: air
+search: false
 locale: "en-US"
 # Build settings
 markdown: kramdown
@@ -104,7 +104,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  
+
 # Markdown Processing
 kramdown:
   input: GFM
