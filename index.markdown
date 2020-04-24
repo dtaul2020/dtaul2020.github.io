@@ -5,7 +5,8 @@ classes:
    - dark-theme
 title: Home
 permalink: /home/
-sidebar: main
+sidebar:
+  - nav: main
 ---
 
 <img src="/assets/Door to Knowledge.jpg" width="225px" length="225px">
