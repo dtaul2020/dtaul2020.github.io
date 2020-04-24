@@ -11,7 +11,7 @@ sidebar:
 
 <img src="/assets/Door to Knowledge.jpg" width="225px" length="225px">
 
-[Home](/home/)
+[Home](/)
 [About](/about/)
 [Library Blog](/library/)
 [Disney Blog](/disney/)

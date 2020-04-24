@@ -3,7 +3,7 @@ layout: single
 title: About
 permalink: /about/
 ---
-[Home](/home/)
+[Home](/)
 [About](/about/)
 [Library Blog](/library/)
 [Disney Blog](/disney/)

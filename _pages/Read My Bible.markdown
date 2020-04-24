@@ -6,7 +6,7 @@ permalink: /bible/
 
 <img src= "/assets/Read My Bible.jpg" width="500px" length="500px">
 
-[Home](/home/)
+[Home](/)
 [About](/about/)
 [Library Blog](/library/)
 [Disney Blog](/disney/)

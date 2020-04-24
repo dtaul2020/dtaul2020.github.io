@@ -5,7 +5,7 @@ permalink: /disney/
 ---
 <img src="/assets/Disney.jpg" width="500px" length="500px">
 
-[Home](/home/)
+[Home](/)
 [About](/about/)
 [Library Blog](/library/)
 [Disney Blog](/disney/)

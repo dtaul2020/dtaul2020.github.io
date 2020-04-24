@@ -4,7 +4,7 @@ title: Library
 permalink: /library/
 ---
 
-[Home](/home/)
+[Home](/)
 [About](/about/)
 [Library Blog](/library/)
 [Disney Blog](/disney/)
