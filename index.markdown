@@ -4,7 +4,7 @@ classes:
    - landing
    - dark-theme
 title: Home
-permalink: /home/
+permalink: /
 sidebar:
   - nav: main
 ---
