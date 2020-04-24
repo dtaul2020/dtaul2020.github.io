@@ -2,7 +2,7 @@
 layout: splash
 classes:
    - landing
-   - mint-theme
+   - dark-theme
 title: Home
 permalink: /home/
 ---
