@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Read My Bible
 permalink: /bible/
 ---
