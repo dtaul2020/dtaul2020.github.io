@@ -4,8 +4,6 @@ title: Read My Bible
 permalink: /bible/
 ---
 
-<img src= "/assets/Read My Bible.jpg" width="500px" length="500px">
-
 [Home](/)
 [About](/about/)
 [Library Blog](/library/)
@@ -13,6 +11,7 @@ permalink: /bible/
 [Read My Bible Blog](/bible/)
 [Research](/research/)
 
+<img src= "/assets/Read My Bible.jpg" width="500px" length="500px">
 
 Bible Devotion of the Day
 

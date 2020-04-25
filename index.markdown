@@ -9,14 +9,14 @@ sidebar:
   - nav: main
 ---
 
-<img src="/assets/Door to Knowledge.jpg" width="225px" length="225px">
-
 [Home](/)
 [About](/about/)
 [Library Blog](/library/)
 [Disney Blog](/disney/)
 [Read My Bible Blog](/bible/)
 [Research](/research/)
+
+<img src="/assets/Door to Knowledge.jpg" width="225px" length="225px">
 
 Welcome to Danielle's World of Knowledge
 
