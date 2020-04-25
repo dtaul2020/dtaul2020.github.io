@@ -30,7 +30,7 @@ Education
     * Gaston College with Carolina Central Community College (2012-2014)
     * Forestview High School (2009-2012)
 
-[Resume](Resume 2020.pdf)
+[Resume](/assets/Resume 2020.pdf)
 
 Library Experiences
 
