@@ -16,9 +16,8 @@ sidebar:
 [Read My Bible Blog](/bible/)
 [Research](/research/)
 
-<img src="/assets/Door to Knowledge.jpg" width="225px" length="225px">
+<img src="https://c7.uihere.com/files/660/320/36/door-knowledge-stock-photography-stairs-stock-illustration-books-and-doors.jpg" width="225px" length="225px">
 
-###### https://c7.uihere.com/files/660/320/36/door-knowledge-stock-photography-stairs-stock-illustration-books-and-doors.jpg
 
 Welcome to Danielle's World of Knowledge
 
