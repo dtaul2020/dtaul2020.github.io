@@ -54,7 +54,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 # **Sing to the Reading Melody**
 
-<img src="/assets/Music Library.jpg" width="500px" length="500px">
+<img src="https://cdn.digitaldjtips.com/app/uploads/2013/05/13093722/Tools-Workflow-Ideas-For-Organising-Your-Music-Library-copy-1204x642.jpg" width="500px" length="500px">
 
  There are many types of libraries out there. There are public libraries, school libraries, academic libraries, hospital libraries, law libraries, etc. Wherever you go, there is bound to be a library full of exotic materials waiting for someone to grab and take a look. Did you know that there are also music libraries? I never knew that music could have a library but as it turned out, there is!
 
@@ -64,7 +64,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 # **Library of Congress**
 
-<img src="/assets/Library of Congress.jpg" width="275px" length="183px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/LOC_Main_Reading_Room_Highsmith.jpg" width="275px" length="183px">
 
 After graduation, I would love to work at the one place where history and librarianship come together as one: the Library of Congress in Washington D.C. D.C. is filled with American history. I would love to walk around the many monuments, the museums, the memorials, etc. but the one place where I want to step through is the Library of Congress.
 
