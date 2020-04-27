@@ -11,10 +11,10 @@ permalink: /library/
 [Read My Bible Blog](/bible/)
 [Research](/research/)
 
-# Danielle's Library
+# **Danielle's Library**
 
 
-# What is the Library?
+# **What is the Library?**
 
 <img src="https://vignette.wikia.nocookie.net/disney/images/f/f5/Beauty-and-the-beast-disneyscreencaps.com-6089.jpg/revision/latest?cb=20140619151632" width="500px" length="500px">
 
@@ -28,7 +28,7 @@ Hello my readers. This is my first blog post about libraries. Some people say th
 
 
 
-# A Hint of Library History
+# **A Hint of Library History**
 
 <img src="https://www.oldmission.net/wp-content/uploads/2018/02/Thomas-Jefferson-Library-of-Congress.jpg" width="500px" length="500px">
 
@@ -40,7 +40,7 @@ You know what? I love Laura Bush. She is an inspiration to me. I bet without a d
 
 
 
-# "Extra, Extra! Read All About It"
+# **"Extra, Extra! Read All About It"**
 
 <img src="https://socialnorms.org/wp-content/uploads/2015/05/newsboy.jpg" width="300px" length="300px">
 
@@ -52,7 +52,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 
 
-# Sing to the Reading Melody
+# **Sing to the Reading Melody**
 
 <img src="/assets/Music Library.jpg" width="500px" length="500px">
 
@@ -62,7 +62,7 @@ Also, if you haven't been to "Special Collections" or Reference, take a peek! Bu
 
 
 
-# Library of Congress
+# **Library of Congress**
 
 <img src="/assets/Library of Congress.jpg" width="275px" length="183px">
 
@@ -76,7 +76,7 @@ It has been a dream of mine since the beginning of college to work at that libra
 
 
 
-# Is this the End? No Let Libraries Live!
+# **Is this the End? No Let Libraries Live!**
  I know that technology is becoming broad but for libraries, I just love picking up a book manually, turning a page with my hand. Now I hear that you can turn a page just by a touch of your finger?! Sorry for being blunt but that is still weird to me! Plus, you have to pay money in order for you to keep that book in your Kindle or some other e-book collection.
 
  The library's materials are free not paid unless you want to pay the overdue fees! Let libraries live for their purpose: to manually read resources with just your hand turning the page and getting books that are on the shelf not from an online site. I understand if that is the only way to go if manual labor (meaning your hands) does not work. So I ask you: which side do you choose for the library to continue? Manually or technology? Like Tom Cruise said "With me or without me?" It is your choice!
