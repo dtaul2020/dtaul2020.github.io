@@ -16,7 +16,7 @@ permalink: /library/
 
 # What is the Library?
 
-<img src="/assets/Library.jpg" width="500px" length="500px">
+<img src="https://vignette.wikia.nocookie.net/disney/images/f/f5/Beauty-and-the-beast-disneyscreencaps.com-6089.jpg/revision/latest?cb=20140619151632" width="500px" length="500px">
 
 Hello my readers. This is my first blog post about libraries. Some people say that libraries are places where you check in and check out books; I believe that libraries are more than that: I believe libraries are places where history, information, and knowledge come to life.
 
@@ -30,7 +30,7 @@ Hello my readers. This is my first blog post about libraries. Some people say th
 
 # A Hint of Library History
 
-<img src="/assets/Library History.jpg" width="500px" length="500px">
+<img src="https://www.oldmission.net/wp-content/uploads/2018/02/Thomas-Jefferson-Library-of-Congress.jpg" width="500px" length="500px">
 
  History is everywhere. In libraries, you can find history in any resource especially online.
 
@@ -42,7 +42,7 @@ You know what? I love Laura Bush. She is an inspiration to me. I bet without a d
 
 # "Extra, Extra! Read All About It"
 
-<img src="/assets/Newsboy.jpg" width="300px" length="300px">
+<img src="https://socialnorms.org/wp-content/uploads/2015/05/newsboy.jpg" width="300px" length="300px">
 
 Have you ever heard of the phrase, "Extra, Extra! Read All About It?" That is a phrase you might hear when a newspaper article becomes important to read about. Do you know where else you can find newspapers? In the library!
 

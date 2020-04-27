@@ -11,7 +11,7 @@ permalink: /bible/
 [Read My Bible Blog](/bible/)
 [Research](/research/)
 
-<img src= "/assets/Read My Bible.jpg" width="500px" length="500px">
+<img src= "https://cdn.simplecast.com/images/203714f8-2633-4bdc-8238-8a3f670df2bb/7182bdda-75d9-4939-9c87-187e25551397/3000x3000/rtb-launch-podcast-thumbnail.jpg?aid=rss_feed" width="500px" length="500px">
 
 Bible Devotion of the Day
 
