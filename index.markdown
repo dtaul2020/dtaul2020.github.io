@@ -19,12 +19,12 @@ sidebar:
 <img src="https://c7.uihere.com/files/660/320/36/door-knowledge-stock-photography-stairs-stock-illustration-books-and-doors.jpg" width="225px" length="225px">
 
 
-**Welcome to Danielle's World of Knowledge**
+# **Welcome to Danielle's World of Knowledge**
 
   On this website, you will have the chance to meet the next future librarian of your time. She is a small-town graduate student reaching out to the library-science field. She is pursuing her dream to work at the Library of Congress. Here you will open the doors to meet this librarian who will open the doors to knowledge.
 
 
-**Education**
+# **Education**
 
     * University of North Carolina at Greensboro (2017-Present)
     * University of North Carolina at Charlotte (2015-2017)
@@ -33,12 +33,12 @@ sidebar:
 
 [Resume](/assets/Resume 2020.pdf)
 
-**Library Experiences**
+# **Library Experiences**
 
     * Digitalization Assistant of Oral Histories at UNC-Charlotte's J. Murrey Atkins Library (2017)
     * Library Assistant and Student Programs at Gastonia Public Library and York County Library (2013-2014)
 
-**Interests: The Danielle Taulman you may want to know**
+# **Interests: The Danielle Taulman you may want to know**
 
 
         Netflix
